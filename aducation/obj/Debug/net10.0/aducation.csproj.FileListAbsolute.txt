@@ -1,0 +1,29 @@
+C:\work\aducation\aducation\bin\Debug\net10.0\aducation.exe
+C:\work\aducation\aducation\bin\Debug\net10.0\aducation.deps.json
+C:\work\aducation\aducation\bin\Debug\net10.0\aducation.runtimeconfig.json
+C:\work\aducation\aducation\bin\Debug\net10.0\aducation.dll
+C:\work\aducation\aducation\bin\Debug\net10.0\aducation.pdb
+C:\work\aducation\aducation\obj\Debug\net10.0\aducation.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\aducation\aducation\obj\Debug\net10.0\aducation.AssemblyInfoInputs.cache
+C:\work\aducation\aducation\obj\Debug\net10.0\aducation.AssemblyInfo.cs
+C:\work\aducation\aducation\obj\Debug\net10.0\aducation.csproj.CoreCompileInputs.cache
+C:\work\aducation\aducation\obj\Debug\net10.0\aducation.dll
+C:\work\aducation\aducation\obj\Debug\net10.0\refint\aducation.dll
+C:\work\aducation\aducation\obj\Debug\net10.0\aducation.pdb
+C:\work\aducation\aducation\obj\Debug\net10.0\aducation.genruntimeconfig.cache
+C:\work\aducation\aducation\obj\Debug\net10.0\ref\aducation.dll
+C:\work c#\C_charp_education\aducation\bin\Debug\net10.0\aducation.exe
+C:\work c#\C_charp_education\aducation\bin\Debug\net10.0\aducation.deps.json
+C:\work c#\C_charp_education\aducation\bin\Debug\net10.0\aducation.runtimeconfig.json
+C:\work c#\C_charp_education\aducation\bin\Debug\net10.0\aducation.dll
+C:\work c#\C_charp_education\aducation\bin\Debug\net10.0\aducation.pdb
+C:\work c#\C_charp_education\aducation\obj\Debug\net10.0\aducation.GeneratedMSBuildEditorConfig.editorconfig
+C:\work c#\C_charp_education\aducation\obj\Debug\net10.0\aducation.AssemblyInfoInputs.cache
+C:\work c#\C_charp_education\aducation\obj\Debug\net10.0\aducation.AssemblyInfo.cs
+C:\work c#\C_charp_education\aducation\obj\Debug\net10.0\aducation.csproj.CoreCompileInputs.cache
+C:\work c#\C_charp_education\aducation\obj\Debug\net10.0\aducation.sourcelink.json
+C:\work c#\C_charp_education\aducation\obj\Debug\net10.0\aducation.dll
+C:\work c#\C_charp_education\aducation\obj\Debug\net10.0\refint\aducation.dll
+C:\work c#\C_charp_education\aducation\obj\Debug\net10.0\aducation.pdb
+C:\work c#\C_charp_education\aducation\obj\Debug\net10.0\aducation.genruntimeconfig.cache
+C:\work c#\C_charp_education\aducation\obj\Debug\net10.0\ref\aducation.dll
